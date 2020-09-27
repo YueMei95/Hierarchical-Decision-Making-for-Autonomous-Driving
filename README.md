@@ -1,5 +1,8 @@
 ## HIERARCHICAL DECISION-MAKING FOR AUTONOMOUS DRIVING
 
+Previous Work
+----
+Multi-policy Decision-making for autonomous Driving via ChangePoint-based Behavior prediction
 ### Contact
 - Please feel free to contact to share your feedbacks, ideas and experiences about Scene-Understanding and Decision-Making for autonomous driving
 - [[LinkedIn]](https://www.linkedin.com/in/simon-chauvin/)
@@ -35,7 +38,7 @@
 **[6]**	J. Rieken, R. Matthaei, and M. Maurer, **"Toward Perception-Driven Urban Environment Modeling for Automated Road Vehicles,"** 2015.
 [[pdf]](https://www.ifr.ing.tu-bs.de/static/files/forschung/papers/download_pdf.php?id=865)
 
-**[7]**	M. Hülsen, J. M. Zöllner, and C. Weiss, **"Traffic intersection situation description ontology for advanced driver assistance,"** 2011.
+**[7]**	M. H眉lsen, J. M. Z枚llner, and C. Weiss, **"Traffic intersection situation description ontology for advanced driver assistance,"** 2011.
 [[html]](https://ieeexplore.ieee.org/document/5940415/)
 
 **[8]**	L. Yu, X. Shao, Y. Wei, and K. Zhou, **"Intelligent Land Vehicle Model Transfer Trajectory Planning Method Based on Deep Reinforcement Learning,"** 2018.
@@ -140,7 +143,7 @@
 **[41]**	X. Li, Z. Sun, D. Cao, Z. He, and Q. Zhu, **"Real-time trajectory planning for autonomous urban driving: Framework, algorithms, and verifications,"** 2016.
 [[html]](https://ieeexplore.ieee.org/document/7303933/)
 
-**[42]**	Ö. Sahin Tas, F. Kuhnt, J. M. Zöllner, and C. Stiller, **"Functional System Architectures towards Fully Automated Driving,"** 2016.
+**[42]**	脰. Sahin Tas, F. Kuhnt, J. M. Z枚llner, and C. Stiller, **"Functional System Architectures towards Fully Automated Driving,"** 2016.
 [[html]](https://ieeexplore.ieee.org/document/7535402/)
 
 **[43]**	A. G. Cunningham, E. Galceran, R. M. Eustice, and E. Olson, **"MPDM: Multipolicy decision-making in dynamic, uncertain environments for autonomous driving,"** 2015.
@@ -272,7 +275,7 @@
 **[85]**	T. Gindele, S. Brechtel, and R. Dillmann, **"A probabilistic model for estimating driver behaviors and vehicle trajectories in traffic environments,"** 2010.
 [[html]](ieeexplore.ieee.org/document/5625262/)
 
-**[86]**	S. Lefèvre, C. Laugier, and J. Ibañez-Guzmán, **"Exploiting map information for driver intention estimation at road intersections,"** 2011.
+**[86]**	S. Lef猫vre, C. Laugier, and J. Iba帽ez-Guzm谩n, **"Exploiting map information for driver intention estimation at road intersections,"** 2011.
 [[html]](ieeexplore.ieee.org/document/5940452/)
 
 **[87]**	J. F. P. Kooij, F. Flohr, E. A. I. Pool, and D. M. Gavrila, **"Context-based Path Prediction for Targets with Switching Dynamics,"** 2018.
